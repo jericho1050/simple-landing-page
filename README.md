@@ -17,3 +17,9 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+## Figma
+
+[MOCKUP / PROTYPE](https://www.figma.com/design/5Y47YXJgt2DoezlF7Y4Ytq/A-Simple-Landing-Page?node-id=0-1&node-type=canvas&t=tWXUMfyLCsufnZqt-0)
+
+
